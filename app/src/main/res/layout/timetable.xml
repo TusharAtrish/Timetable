@@ -7,8 +7,8 @@
     android:theme="@style/Theme.Timetable.AppWidgetContainer">
 
     <ImageView
-
+        android:id="@+id/time_table"
         android:layout_width="match_parent"
         android:layout_height="140dp"
-        android:src="@drawable/time_table" />
+        android:src="@drawable/tushar_time" />
 </RelativeLayout>
